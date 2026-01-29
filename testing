@@ -1,0 +1,2 @@
+One common mistake when learning Git is to commit large files that should not be managed by Git or adding sensitive information. 
+Try adding a file to a repository, making some commits and then deleting that file from history
